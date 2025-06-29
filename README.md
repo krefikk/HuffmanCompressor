@@ -1,5 +1,5 @@
 # HuffmanCompressor
-A compressor/decompressor that uses Huffman Coding algorithm to modify text (.txt) files.
+A compressor/decompressor that uses Huffman Coding algorithm to modify text (.txt) files.<br>C# was used for the interface, while compression and decompression operations were written in C. You can access the huffman.dll file written in C from the bin folder, and the code written in C from the dll_content folder.
 
 # Screenshots
 [ChooseFileToCompress](https://i.hizliresim.com/i1q0r7q.PNG)<br>
